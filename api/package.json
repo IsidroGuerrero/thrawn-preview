@@ -1,0 +1,6 @@
+{
+  "name": "thrawn-preview",
+  "private": true,
+  "type": "module",
+  "dependencies": {}
+}
